@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
-#--------[ DESENVOLVIDO POR @CRAZY_VPN ]-----------#
-#--------[ MOD POR @VEM_BRABO ]-----------#
+#--------[ DESENVOLVIDO POR @SONYCSSH ]-----------#
+#--------[ MOD POR @SONYC-WEB ]-----------#
 source ShellBot.sh
 touch lista
 [[ -z $1 ]] && {

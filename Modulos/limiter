@@ -1,9 +1,9 @@
 #!/bin/bash
 #====================================================
 #	SCRIPT: LIMITER SSHPLUS MANAGER
-#	DESENVOLVIDO POR:	CRAZY_VPN
+#	DESENVOLVIDO POR:	@sonycssh
 #   MOD @VEM_BRABO
-#	CONTATO TELEGRAM:  https://t.me/ALLSOURCESBR_OFC
+#	CONTATO TELEGRAM:  https://t.me/sonycssh
 #====================================================
 clear
 database="/root/usuarios.db"
