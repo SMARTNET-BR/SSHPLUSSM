@@ -26,7 +26,6 @@ apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/lucian
 ```
 
 wget https://raw.githubusercontent.com/lucianolima2905/SSHPLUS/main/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
-# SSHPLUS SONYC
 ```
 
 # 𓊈𒆜 IMAGENS: 𒆜𓊉
