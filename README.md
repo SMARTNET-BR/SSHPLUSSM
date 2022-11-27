@@ -34,6 +34,7 @@ wget https://raw.githubusercontent.com/lucianolima2905/SSHPLUS/main/senharoot.sh
 ![capture-20221127-071303](https://user-images.githubusercontent.com/65465300/204130897-22812a11-123c-47a6-9c44-082cfdfe6b2b.png)
 
 ![capture-20221127-071504](https://user-images.githubusercontent.com/65465300/204130900-73f8fe78-8cd6-4e89-94d5-7da20b8df820.png)
+```
 
 
 ## // CRÉDITOS //
