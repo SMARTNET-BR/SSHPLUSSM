@@ -10,9 +10,9 @@ Criar com token id ou somente ssh
 
 # SSHPLUS
 
-apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/VENHABRABO/SSHPLUS/main/Plus && chmod 777 Plus && ./Plus
+apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/lucianolima2905/SSHPLUS/main/Plus && chmod 777 Plus && ./Plus
 
 # Acesso Root
 
-wget https://raw.githubusercontent.com/VENHABRABO/SSHPLUS/main/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
+wget https://raw.githubusercontent.com/lucianolima2905/SSHPLUS/main/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
 # SSHPLUS
