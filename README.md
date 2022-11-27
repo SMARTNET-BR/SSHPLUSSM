@@ -1,3 +1,11 @@
+#  𓊈𒆜 PAINEL VIP SONYC-PLUS 𒆜𓊉
+
+⚠ <b>SISTEMA SUPORTADO:</b></br>
+👉 <b>(UBUNTU 18)</b></br>
+
+
+```
+
 # UPDATE AGORA COM CHECKUSER
 script agora conta com checkuser para
 os apps conecta4g e GL TUNNEL
