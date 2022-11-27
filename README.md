@@ -16,7 +16,7 @@ Basta criar um usuário e escolher se deseja
 Criar com token id ou somente ssh
 
 
-# SSHPLUS SONYC
+# INSTALAÇÃO SSHPLUS SONYC
 ```
 
 apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/lucianolima2905/SSHPLUS/main/Plus && chmod 777 Plus && ./Plus
